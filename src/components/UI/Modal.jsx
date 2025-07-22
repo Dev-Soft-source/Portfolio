@@ -32,7 +32,7 @@ const Modal = ({ activeID, SetShowModal }) => {
                 onClick={() => SetShowModal(false)}
                 className="w-[1.8rem] h-[1.8rem] bg-white absolute top-[1.7rem] 
                 right-[1.7rem] text-[25px] flex items-center justify-center rounded-[3px]
-                 leading-0 cursor-pointer" > <i class="ri-close-line"></i></button>
+                 leading-0 cursor-pointer" > <i className="ri-close-line"></i></button>
 
         </div>
     </div>

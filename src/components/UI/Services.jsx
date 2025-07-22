@@ -8,70 +8,51 @@ function Services() {
                 <div className='text-center'>
                     <h2 className='text-headingColor font-[800] text-[2.4rem] mb-5'>What do i help</h2>
                     <p className='lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[600] leading-7'>
-                    I have a strong understanding of frontend technologies such as HTML, CSS, and JavaScript and have a passion for creating visually appealing and responsive websites.
-I am a team player and have experience working in agile development environments.                    </p>
+                        I help businesses build fast, secure, and scalable web applications using Python (Django/FastAPI) and React.
+                        I create clean, user-friendly interfaces and powerful backend systems tailored to real-world needs.
+                        From eCommerce to SaaS platforms, I turn ideas into fully functional digital products.
+                    </p>
                 </div>
             </div>
 
             <div className='flex flex-col justify-center sm:py-12'>
                 <div className='w-full py-3 px-2 sm:max-w-xl sm:mx-auto sm:px-0'>
                     <div className='relative text-gray-700 antialiased text-sm font-semibold'>
-                        {/* vertical line  */}
-                        <div className='hidden absolute w-1 sm:block bg-primaryColor h-full left-1/2 transform -translate-x-1/2' ></div>
                         {/* left card */}
                         <div className='mt-6 sm:mt-0 sm:mb-12'>
                             <div className='flex items-center flex-col sm:flex-row'>
-
                                 <div className='flex justify-start w-full mx-auto items-center'>
-                                    <div className='w-full sm:w-1/2 sm:pr-8'>
+                                    <div className='w-full sm:w-3/4 sm:pr-8'>
                                         <div data-aos="fade-right" data-aos-delay="100" data-aos-duration="1200" className='bg-white p-4 rounded shadow group hover:bg-primaryColor cursor-pointer ease-in duration-150'>
-                                            <h3 className='text-primaryColor font-[600] mb-3 group-hover:text-white  text-xl'>
-                                                Frontend Developer
+                                            <h3 className='text-indigo-400 font-[600] mb-3 group-hover:text-white text-xl'>
+                                                Python Backend Developer
                                             </h3>
-                                            <p className='text-[15px] text-smallTextColor group-hover:text-white  leading-7'>
- frontend technologies such as: React.js , JS , tailwind css , css , html , and i have strong understand about usereducer and use context and of course redux toolkit
+                                            <p className='text-[15px] text-teal-600 group-hover:text-white leading-7'>
+                                                I build backend systems using Django and FastAPI, create APIs, and work with databases like PostgreSQL. I’ve used tools like Celery and Redis for background tasks, and I handle user login and security with JWT and OAuth2. I also deploy projects using Docker and set up CI/CD for smooth updates.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
-                                <div className='rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center'>
-                                    <figure>
-                                        <img src={frontedImg} alt='' />
-                                    </figure>
-
-                                </div>
                             </div>
-
-
                         </div>
+
                         {/* right card */}
                         <div className='mt-6 sm:mt-0 sm:mb-12'>
                             <div className='flex items-center flex-col sm:flex-row'>
-
                                 <div className='flex justify-end w-full mx-auto items-center'>
-                                    <div className='w-full sm:w-1/2 sm:pl-8'>
+                                    <div className='w-full sm:w-3/4 sm:pl-8'>
                                         <div data-aos="fade-left" data-aos-delay="50" data-aos-duration="1300" className='bg-white p-4 rounded shadow group hover:bg-primaryColor cursor-pointer ease-in duration-150'>
-                                            <h3 className='text-primaryColor font-[600] mb-3 group-hover:text-white  text-xl'>
-                                            UIUX Designer
+                                            <h3 className='text-indigo-400 font-[600] mb-3 group-hover:text-white text-xl'>
+                                                UI/UX Designer
                                             </h3>
-                                            <p className='text-[15px] text-smallTextColor group-hover:text-white  leading-7'>
-                                          design  technologies such as:figma, xd                                       </p>
+                                            <p className='text-[15px] text-teal-600 group-hover:text-white leading-7'>
+                                                As a Frontend developer, I have experience working with frontend tools like React.js, JavaScript, and Tailwind CSS. I understand how frontend state is managed using useReducer, Context API, and Redux Toolkit. This helps me build backend systems that integrate smoothly with modern frontend applications.
+                                            </p>
                                         </div>
                                     </div>
-                                </div>
-                                <div className='rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center'>
-                                    <figure>
-                                        <img src={uiuxImg} alt='' />
-                                    </figure>
-
-                                </div>
+                                </div>                               
                             </div>
-
-
                         </div>
-
-
-
                     </div>
                 </div>
             </div>

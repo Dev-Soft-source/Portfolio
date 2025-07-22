@@ -1,13 +1,13 @@
-import portfolioImg01 from "../images/portfolio-01.jpg";
-import portfolioImg02 from "../images/portfolio-02.jpg";
-import portfolioImg03 from "../images/portfolio-03.jpg";
-import portfolioImg04 from "../images/portfolio-04.jpg";
-import portfolioImg05 from "../images/portfolio-05.jpg";
-import portfolioImg06 from "../images/portfolio-06.jpg";
-import portfolioImg07 from "../images/portfolio-07.jpg";
-import portfolioImg08 from "../images/portfolio-08.jpg";
-import portfolioImg09 from "../images/portfolio-09.jpg";
-import portfolioImg10 from "../images/portfolio-10.jpg";
+import portfolioImg01 from "../images/portfolio-01.png";
+import portfolioImg02 from "../images/portfolio-02.png";
+import portfolioImg03 from "../images/portfolio-03.png";
+import portfolioImg04 from "../images/portfolio-04.png";
+import portfolioImg05 from "../images/portfolio-05.png";
+import portfolioImg06 from "../images/portfolio-06.png";
+import portfolioImg07 from "../images/portfolio-07.png";
+import portfolioImg08 from "../images/portfolio-08.png";
+import portfolioImg09 from "../images/portfolio-09.png";
+import portfolioImg10 from "../images/portfolio-10.png";
 
 const portfolios = [{
         id: "01",
@@ -16,7 +16,6 @@ const portfolios = [{
         title: "Agency Website",
         description: "Lorem ipsum dolor sit,saepe!",
         technologies: ["React.js", "Tailwind css"],
-        siteUrl: "https://agency-website-orpin.vercel.app/",
     },
     {
         id: "02",
@@ -25,7 +24,6 @@ const portfolios = [{
         title: "Admin Dashboard",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css"],
-        siteUrl: "https://github.com/ZohreScript/AdminDahboard",
     },
     {
         id: "03",
@@ -34,7 +32,6 @@ const portfolios = [{
         title: "shopcart",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React", "Tailwind css", ],
-        siteUrl: "https://shop-cart-navy.vercel.app/",
     },
     {
         id: "04",
@@ -43,7 +40,6 @@ const portfolios = [{
         title: "inventory",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css", "local storage"],
-        siteUrl: "https://zohrescript.github.io/inventory/",
     },
 
     {
@@ -53,7 +49,6 @@ const portfolios = [{
         title: "portfolio",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["html", " css", "js"],
-        siteUrl: "https://portfolio-black-ten-93.vercel.app/",
     },
     {
         id: "06",
@@ -62,7 +57,6 @@ const portfolios = [{
         title: "movie episodes website",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css"],
-        siteUrl: "https://episode-movie.vercel.app/",
     },
     {
         id: "07",
@@ -71,7 +65,6 @@ const portfolios = [{
         title: " my portfolio ",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css", ],
-        siteUrl: "https://zohrescript.github.io/myportflio/",
     },
     {
         id: "08",
@@ -80,7 +73,6 @@ const portfolios = [{
         title: " fast food ",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css", ],
-        siteUrl: "https://food-opal-ten.vercel.app/",
     },
     {
         id: "09",
@@ -89,7 +81,6 @@ const portfolios = [{
         title: " wetherApp ",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css", ],
-        siteUrl: "https://weather-app-omega-steel.vercel.app/",
     },
     {
         id: "10",
@@ -98,7 +89,6 @@ const portfolios = [{
         title: "Note Pad",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
         technologies: ["React.js", "Tailwind css"],
-        siteUrl: "https://notepad-ebon.vercel.app/",
     },
 ];
 
