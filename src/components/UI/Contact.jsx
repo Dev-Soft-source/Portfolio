@@ -9,7 +9,7 @@ const Contact = () => {
                     <div className='w-full md:w-1/2 h-[300px] sm:h-[450px]'>
                         <iframe
                             title='google-map'
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14661.156654139968!2d131.8654477!3d43.1155352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fb38dd105cb64db%3A0x630bfa93e8a3cb48!2sVladivostok%2C%20Primorsky%20Krai%2C%20Russia!5e0!3m2!1sen!2s!4v1721559800000!5m2!1sen!2s"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62844.282970982456!2d-66.94207599999999!3d10.500000000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2a5904b14c1e63%3A0xd56c58bffeb5c2d5!2sCaracas%2C%20Capital%20District%2C%20Venezuela!5e0!3m2!1sen!2s!4v1721731000000!5m2!1sen!2s"
                             className='border-0 w-full h-full'
                             allowFullScreen=""
                             loading="lazy"

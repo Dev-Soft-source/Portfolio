@@ -15,7 +15,7 @@ const portfolios = [{
         category: "Web Design",
         title: "Agency Website",
         description: "Lorem ipsum dolor sit,saepe!",
-        technologies: ["React.js", "Tailwind css"],
+        technologies: ["Flask", "React.js", "Tailwind css"],
     },
     {
         id: "02",
@@ -23,7 +23,7 @@ const portfolios = [{
         category: "Web Design",
         title: "Admin Dashboard",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        technologies: ["React.js", "Tailwind css"],
+        technologies: ["Django", "bootstrap", "Html"],
     },
     {
         id: "03",
@@ -31,7 +31,7 @@ const portfolios = [{
         category: "Web Design",
         title: "shopcart",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        technologies: ["React", "Tailwind css", ],
+        technologies: ["React", "Tailwind css"],
     },
     {
         id: "04",
@@ -56,7 +56,7 @@ const portfolios = [{
         category: "Web Design",
         title: "movie episodes website",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        technologies: ["React.js", "Tailwind css"],
+        technologies: ["Vue 3.js", "Tailwind css"],
     },
     {
         id: "07",
@@ -64,15 +64,15 @@ const portfolios = [{
         category: "Web Design",
         title: " my portfolio ",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        technologies: ["React.js", "Tailwind css", ],
+        technologies: ["Django", "React.js", "Tailwind css", ],
     },
     {
         id: "08",
         imgUrl: portfolioImg08,
-        category: "Web Design",
+        category: "Ux",
         title: " fast food ",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        technologies: ["React.js", "Tailwind css", ],
+        technologies: ["Typescript.js", "Tailwind css", ],
     },
     {
         id: "09",
@@ -83,12 +83,12 @@ const portfolios = [{
         technologies: ["React.js", "Tailwind css", ],
     },
     {
-        id: "10",
+        id: "Ux",
         imgUrl: portfolioImg04,
         category: "Web Design",
         title: "Note Pad",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        technologies: ["React.js", "Tailwind css"],
+        technologies: ["Typescript.js", "Tailwind css"],
     },
 ];
 

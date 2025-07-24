@@ -48,14 +48,14 @@ const Footer = () => {
                 <div className="container">
                     <div className="flex items-center justify-center sm:justify-between"> 
                         <div className="hidden sm:flex items-center gap-3 ">
-                        <span className="w-9 h-9 rounded-full bg-[#3b2d33] text-white font-semibold text-sm flex items-center justify-center">RS</span>
+                        <span className="w-9 h-9 rounded-full bg-[#3b2d33] text-white font-semibold text-sm flex items-center justify-center">YF</span>
                         <div className="leading-5">
-                            <h2 className="text-gray-200 font-semibold text-sm">Radu Smilova</h2>
+                            <h2 className="text-gray-200 font-semibold text-sm">Yorge Francia</h2>
                             <p className="text-gray-400 text-xs font-semibold">Python web developer</p>
                         </div>
                         </div>
                         <div className="mt-3 sm:mt-0">
-                        <p className="text-gray-400 text-xs sm:text-right">Copyright 2025 by Radu All rights reserved</p>
+                        <p className="text-gray-400 text-xs sm:text-right">Copyright 2021 by Yorge All rights reserved</p>
                         </div>
                     </div>
                 </div>

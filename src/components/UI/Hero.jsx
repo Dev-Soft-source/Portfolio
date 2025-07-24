@@ -1,11 +1,9 @@
 import React from 'react';
 import CountUp from 'react-countup';
-import heroImg from '../../assets/images/hero.png';
+import heroImg from '../../assets/images/pic.png';
 import 'remixicon/fonts/remixicon.css';
 
-
 function Hero() {
-
 
     return (
         <section className="pt-0" id="about">
@@ -20,7 +18,7 @@ function Hero() {
                             Hello and welcome!
                         </h5>
                         <h1 data-aos="fade-up" data-aos-duration="1500" className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'>
-                            I'm Radu Smilova <br />                            
+                            I'm Yorge Francia <br />                            
                         </h1>
                         <h4 data-aos="fade-up" data-aos-duration="1500" className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'>
                             Full-stack Engineer (Python / React)
