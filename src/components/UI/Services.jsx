@@ -75,7 +75,7 @@ function Services() {
                                     <div className='w-full sm:w-3/4 sm:pl-8'>
                                         <div data-aos="fade-left" data-aos-delay="50" data-aos-duration="1300" className='bg-white p-4 rounded shadow group hover:bg-primaryColor cursor-pointer ease-in duration-150'>
                                             <h3 className='text-purple-600 font-[600] mb-3 group-hover:text-white text-xl'>
-                                                UI/UX Designer
+                                                Web Scraping Developer
                                             </h3>
                                             <p className='text-[15px] text-lime-600 group-hover:text-white leading-7'>
                                                 I provide reliable and efficient web scraping solutions for both static and dynamic websites. Using Python with BeautifulSoup, Selenium, or Playwright, I deliver clean, structured data (CSV, Excel, JSON, or database) while handling dynamic pages, logins, and captchas.My solutions are fully automated and robust, with error handling to ensure accuracy and reliability. I can also share examples of similar projects I’ve completed. My focus is on creating a fast, precise, and maintainable scraper that gives you exactly the data you need.
