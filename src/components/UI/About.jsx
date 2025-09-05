@@ -7,7 +7,7 @@ const About = () => {
         <h2 className="text-4xl font-bold mb-6 text-center">About Me</h2>
         <div className="text-lg leading-relaxed space-y-6">
           <p>
-            I’m a results-driven <span className="font-semibold"> Full-Stack Developer </span> with over 6+ years of experience designing and delivering high-performance, scalable web applications. My expertise lies in building robust backend systems using <strong>Python (Django/FastAPI)</strong> and crafting sleek, responsive frontends with <strong>React</strong>, <strong>Tailwind CSS</strong>, and modern JavaScript ecosystems.
+            I’m a results-driven <span className="font-semibold"> Full-Stack Developer </span> with over <strong>6+</strong> years of experience designing and delivering high-performance, scalable web applications. My expertise lies in building robust backend systems using <strong>Python (Django/FastAPI/Flask)</strong> and crafting sleek, responsive frontends with <strong>React, TypeScript, NextJS, Vue 3, Tailwind CSS</strong>, and modern JavaScript ecosystems.
           </p>
           <p>
             From eCommerce platforms and SaaS dashboards to real-time applications, I’ve led end-to-end development of production-grade solutions that combine technical excellence with thoughtful UX. I prioritize <strong>clean architecture</strong>, <strong>reusable components</strong>, and <strong>performance optimization</strong> at every stage of the stack.

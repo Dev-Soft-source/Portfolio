@@ -15,13 +15,10 @@ function Hero() {
                             data-aos="fade-right"
                             data-aos-duration="1500" // Duration in milliseconds
                             className="text-headingColor font-[600] text-[16px]">
-                            Hello and welcome!
-                        </h5>
-                        <h1 data-aos="fade-up" data-aos-duration="1500" className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'>
-                            I'm Yorge Francia <br />                            
-                        </h1>
+                            Hello and welcome!  I'm<strong> Yorge Francia</strong> 
+                        </h5>                        
                         <h4 data-aos="fade-up" data-aos-duration="1500" className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'>
-                            Full-stack Engineer (Python / React)
+                            Full-stack Engineer (Python | React | ML | Scraping)
                         </h4>
                         <div data-aos="fade-up" data-aos-duration="1800" data-aos-delay="200" className='flex items-center gap-6 mt-7'>
 
@@ -37,7 +34,7 @@ function Hero() {
                             <span>
                                 <i className="ri-apps-line"></i>
                             </span>
-                            I’m a highly motivated and ambitious Python Web Developer with 6+ years of experience building scalable, secure, and maintainable web applications. My focus is on developing clean, efficient backend systems using frameworks like Django and FastAPI, while following best practices in REST API design, database modeling, and deployment.
+                            I’m a highly motivated and ambitious Python Web Developer with 6+ years of experience building scalable, secure, and maintainable web applications. My focus is on developing clean, efficient backend systems using frameworks like Django, Flask, and FastAPI, while following best practices in REST API design, database modeling, and deployment.
 
                             <br/>With a strong foundation in problem-solving and a passion for continuous learning, I stay up-to-date with the latest tools and trends in Python development. I thrive in collaborative environments, adapt quickly to new challenges, and take pride in turning complex ideas into reliable, production-ready solutions. 
                         </p>
@@ -60,19 +57,19 @@ function Hero() {
                         </div>
                         <div className='mb-10'>
                             <h2 className='text-headingColor font-[700] text-[32px]'>
-                                <CountUp start={0} end={93} duration={2} suffix='+' />
+                                <CountUp start={0} end={98} duration={2} suffix='+%' />
                             </h2>
                             <h4 className='text-headingColor font-[600] text-[18px]'>Success rate</h4>
                         </div>
                         <div className='mb-10'>
                             <h2 className='text-headingColor font-[700] text-[32px]'>
-                                <CountUp start={0} end={97} duration={2} suffix='+' />
+                                <CountUp start={0} end={98} duration={2} suffix='+%' />
                             </h2>
                             <h4 className='text-headingColor font-[600] text-[18px]'>Happy client</h4>
                         </div>
                         <div className='mb-10'>
                             <h2 className='text-headingColor font-[700] text-[32px]'>
-                                <CountUp start={0} end={68} duration={2} suffix='+' />
+                                <CountUp start={0} end={100} duration={2} suffix='+%' />
                             </h2>
                             <h4 className='text-headingColor font-[600] text-[18px]'>Project competed</h4>
                         </div>
