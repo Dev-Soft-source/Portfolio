@@ -57,19 +57,19 @@ function Hero() {
                         </div>
                         <div className='mb-10'>
                             <h2 className='text-headingColor font-[700] text-[32px]'>
-                                <CountUp start={0} end={98} duration={2} suffix='+%' />
+                                <CountUp start={0} end={98} duration={2} suffix='%' />
                             </h2>
                             <h4 className='text-headingColor font-[600] text-[18px]'>Success rate</h4>
                         </div>
                         <div className='mb-10'>
                             <h2 className='text-headingColor font-[700] text-[32px]'>
-                                <CountUp start={0} end={98} duration={2} suffix='+%' />
+                                <CountUp start={0} end={98} duration={2} suffix='%' />
                             </h2>
                             <h4 className='text-headingColor font-[600] text-[18px]'>Happy client</h4>
                         </div>
                         <div className='mb-10'>
                             <h2 className='text-headingColor font-[700] text-[32px]'>
-                                <CountUp start={0} end={100} duration={2} suffix='+%' />
+                                <CountUp start={0} end={78} duration={2} suffix='+' />
                             </h2>
                             <h4 className='text-headingColor font-[600] text-[18px]'>Project competed</h4>
                         </div>
